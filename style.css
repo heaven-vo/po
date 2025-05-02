@@ -221,7 +221,7 @@ a:focus {
 }
 
 .pos-2 {
-	grid-area: 1 / 18 / 9 / 27;
+	grid-area: 1 / 18 / 9 / 25;
 }
 
 .pos-3 {
@@ -237,7 +237,7 @@ a:focus {
 }
 
 .pos-6 {
-	grid-area: 20 / 46 / 28 / 51;
+	grid-area: 15 / 45 / 28 / 50;
 }
 
 .pos-7 {
@@ -259,8 +259,8 @@ a:focus {
 .content__title {
 	font-family: myFont;
 	font-weight: 400;
-	font-size: 10vw;
-	margin: 10px 0;
+	font-size: 5vw;
+	margin: 30px 0;
 	line-height: 1;
 	position: relative;
 }
